@@ -1,7 +1,7 @@
 <!-- ![logo](github.com.shahid09pic) -->
 <h1 align="center">Hi 👋, I'm Shahid</h1>
 
-<h3 align="center">A Passionate Backend Developer From Pakistan</h3>
+<h3 align="center">A Passionate Backend Developer At Quecko</h3>
 
 <img align="right" alt="coding" with="400" height="500" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif"/>
 

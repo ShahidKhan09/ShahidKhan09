@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahidkhan09&label=Profile%20views&color=0e75b6&style=flat" alt="shahidkhan09" /> </p>
 
-- 🔭 I’m currently working on **Green Pad**
+- 🔭 I’m currently working on **DOP {DATA_OWNERSHIP_PROTOCOLS**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [https://shahid09.netlify.app/](https://shahid09.netlify.app/)
 

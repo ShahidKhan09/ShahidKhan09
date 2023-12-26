@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahidkhan09&label=Profile%20views&color=0e75b6&style=flat" alt="shahidkhan09" /> </p>
 
-- 🔭 I’m currently working on **DOP {DATA_OWNERSHIP_PROTOCOLS**
+- 🔭 I’m currently working on **DOP {DATA_OWNERSHIP_PROTOCOLS}**
 
 - 🌱 I’m currently learning **Golang**
 

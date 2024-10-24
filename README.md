@@ -3,7 +3,7 @@
 
 <h3 align="center">A Passionate Backend Developer At Quecko</h3>
 
-<img align="right" alt="coding" with="400" height="500" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif"/>
+<img align="right" alt="coding" with="400" height="500" src="[https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3FrZ3BlN2w4cWZ4aGk5NTQ5MGJlcWhrZHRqdWk5ZnFvMDNraDYycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ah3zHH7hvsSB2/giphy.webp)"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahidkhan09&label=Profile%20views&color=0e75b6&style=flat" alt="shahidkhan09" /> </p>
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://shahid09.netlify.app/](https://shahid09.netlify.app/)
 
-- ⚡ Fun fact **I Have To Be The BESt ! 😍**
+- ⚡ Fun fact **I Have To Be The BEST ! 😍**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

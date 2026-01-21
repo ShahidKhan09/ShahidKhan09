@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahidkhan09&label=Profile%20views&color=0e75b6&style=flat" alt="shahidkhan09" /> </p>
 
-- 🔭 I’m currently working on **DOP {DATA_OWNERSHIP_PROTOCOLS}**
+- 🔭 I’m currently working on **thecryptobasic**
 
 - 🌱 I’m currently learning **Golang**
 
@@ -40,3 +40,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahidkhan09&show_icons=true&locale=en" alt="shahidkhan09" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahidkhan09&" alt="shahidkhan09" /></p>
+

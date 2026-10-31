@@ -12,15 +12,15 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 All of my projects are available at [https://shahid09.netlify.app/](https://shahid09.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://shahid09.is-a.dev/](https://shahid09.is-a.dev/)
 
-- 📝 I regularly write articles on [https://shahid09.netlify.app/](https://shahid09.netlify.app/)
+- 📝 I regularly write articles on [https://shahid09.is-a.dev/](https://shahid09.is-a.dev/)
 
 - 💬 Ask me about **React , Node**
 
 - 📫 How to reach me **contattoshahidkhan@gmail.com**
 
-- 📄 Know about my experiences [https://shahid09.netlify.app/](https://shahid09.netlify.app/)
+- 📄 Know about my experiences [https://shahid09.is-a.dev/](https://shahid09.is-a.dev/)
 
 - ⚡ Fun fact **I Have To Be The BEST ! 😍**
 
